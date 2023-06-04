@@ -22,6 +22,10 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oksanka848/Reacr-w21.git"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
